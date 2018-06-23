@@ -1,0 +1,7 @@
+/* .navbar {
+    height: 200px;
+} */
+
+.navbar.navbar-expand-lg {
+    height: 150px;
+}
